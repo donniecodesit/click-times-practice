@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/click-times-practice/static/js/main.26740970.chunk.js",
+    "main.js.map": "/click-times-practice/static/js/main.26740970.chunk.js.map",
+    "runtime-main.js": "/click-times-practice/static/js/runtime-main.62c1dd5a.js",
+    "runtime-main.js.map": "/click-times-practice/static/js/runtime-main.62c1dd5a.js.map",
+    "static/js/2.807484c3.chunk.js": "/click-times-practice/static/js/2.807484c3.chunk.js",
+    "static/js/2.807484c3.chunk.js.map": "/click-times-practice/static/js/2.807484c3.chunk.js.map",
+    "index.html": "/click-times-practice/index.html",
+    "precache-manifest.4ef1c7f02e40442f44675f4daea62847.js": "/click-times-practice/precache-manifest.4ef1c7f02e40442f44675f4daea62847.js",
+    "service-worker.js": "/click-times-practice/service-worker.js",
+    "static/js/2.807484c3.chunk.js.LICENSE.txt": "/click-times-practice/static/js/2.807484c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62c1dd5a.js",
+    "static/js/2.807484c3.chunk.js",
+    "static/js/main.26740970.chunk.js"
+  ]
+}
